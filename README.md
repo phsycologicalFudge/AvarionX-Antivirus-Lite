@@ -6,7 +6,7 @@
 
 # AvarionX Security
 
-### Android malware protection without ads, tracking, or locked core features.
+### Androids lightest anti-malware
 
 [![Release](https://img.shields.io/github/v/release/phsycologicalFudge/AvarionX-Antivirus-Lite?logo=github&label=release&color=6366f1)](https://github.com/phsycologicalFudge/AvarionX-Antivirus-Lite/releases)
 [![Downloads](https://img.shields.io/github/downloads/phsycologicalFudge/AvarionX-Antivirus-Lites/total?logo=github&label=downloads&color=10b981)](https://github.com/phsycologicalFudge/AvarionX-Antivirus-Lite/releases)
