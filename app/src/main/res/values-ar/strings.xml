@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="state_off_hint">اضغط للتشغيل</string>
+    <string name="state_on">الجهاز محمي</string>
+    <string name="tagline">أمان ضد تهديدات الجوال</string>
+    <string name="tagline_sub">خدمة يمكنك الوثوق بها</string>
+    <string name="quarantine_title">المحذوفات</string>
+    <string name="quarantine_cd">الحجر الصحي</string>
+    <string name="back_cd">رجوع</string>
+    <string name="select_all">تحديد الكل</string>
+    <string name="empty_title">لا توجد ملفات محذوفة</string>
+    <string name="empty_body">أي شيء تزيله سيظهر هنا.</string>
+    <string name="restore">استعادة</string>
+    <string name="delete">حذف</string>
+    <string name="delete_title">حذف الملفات المحددة؟</string>
+    <string name="cancel">إلغاء</string>
+    <string name="uninstall_title">إلغاء تثبيت التطبيق</string>
+    <string name="uninstall_body">هل تريد إلغاء تثبيت %1$s؟</string>
+    <string name="uninstall">إلغاء التثبيت</string>
+    <string name="files">الملفات</string>
+    <string name="apps">التطبيقات</string>
+    <string name="unknown_app">تطبيق غير معروف</string>
+    <string name="unknown_file">غير معروف</string>
+    <string name="setup_running">جارٍ الإعداد...</string>
+    <string name="setup_offline_title">لا يوجد اتصال</string>
+    <string name="setup_offline_body">يرجى التحقق من اتصالك بالإنترنت. الإنترنت مطلوب مرة واحدة أثناء الإعداد.</string>
+    <string name="setup_retry">إعادة المحاولة</string>
+    <string name="setup_unsupported">إصدار التطبيق هذا غير مدعوم</string>
+    <string name="ok">موافق</string>
+    <string name="alert_title">تم اكتشاف تهديد</string>
+    <string name="alert_file_ok">تم عزل ملف: %1$s</string>
+    <string name="alert_file_failed">فشل العزل: %1$s</string>
+    <string name="alert_app_ok">تم وضع علامة على تطبيق مشبوه: %1$s</string>
+    <string name="alert_app_failed">تم اكتشاف تطبيق مشبوه: %1$s</string>
+    <plurals name="alert_total">
+        <item quantity="zero">تم اكتشاف %d تهديد</item>
+        <item quantity="one">تم اكتشاف %d تهديد</item>
+        <item quantity="two">تم اكتشاف %d تهديد</item>
+        <item quantity="few">تم اكتشاف %d تهديدات</item>
+        <item quantity="many">تم اكتشاف %d تهديدًا</item>
+        <item quantity="other">تم اكتشاف %d تهديد</item>
+    </plurals>
+    <string name="fgs_text">الحماية نشطة</string>
+    <string name="channel_protection">النشاط في الخلفية</string>
+    <string name="channel_alerts">تنبيهات الأمان</string>
+</resources>

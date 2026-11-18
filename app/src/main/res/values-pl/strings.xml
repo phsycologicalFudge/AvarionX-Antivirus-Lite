@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="state_off_hint">Dotknij, aby włączyć</string>
+    <string name="state_on">Urządzenie chronione</string>
+    <string name="tagline">Ochrona przed zagrożeniami mobilnymi</string>
+    <string name="tagline_sub">Usługa, której możesz zaufać</string>
+    <string name="quarantine_title">Usunięte</string>
+    <string name="quarantine_cd">Kwarantanna</string>
+    <string name="back_cd">Wstecz</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="empty_title">Brak usuniętych plików</string>
+    <string name="empty_body">Wszystko, co usuniesz, pojawi się tutaj.</string>
+    <string name="restore">Przywróć</string>
+    <string name="delete">Usuń</string>
+    <string name="delete_title">Usunąć zaznaczone pliki?</string>
+    <string name="cancel">Anuluj</string>
+    <string name="uninstall_title">Odinstaluj aplikację</string>
+    <string name="uninstall_body">Odinstalować %1$s?</string>
+    <string name="uninstall">Odinstaluj</string>
+    <string name="files">Pliki</string>
+    <string name="apps">Aplikacje</string>
+    <string name="unknown_app">Nieznana aplikacja</string>
+    <string name="unknown_file">Nieznany</string>
+    <string name="setup_running">Konfigurowanie...</string>
+    <string name="setup_offline_title">Brak połączenia</string>
+    <string name="setup_offline_body">Sprawdź połączenie z internetem. Internet jest wymagany jednorazowo podczas konfiguracji.</string>
+    <string name="setup_retry">Ponów</string>
+    <string name="setup_unsupported">Ta wersja aplikacji nie jest obsługiwana</string>
+    <string name="ok">OK</string>
+    <string name="alert_title">Wykryto zagrożenie</string>
+    <string name="alert_file_ok">Plik został przeniesiony do kwarantanny: %1$s</string>
+    <string name="alert_file_failed">Nie udało się przenieść do kwarantanny: %1$s</string>
+    <string name="alert_app_ok">Oznaczono podejrzaną aplikację: %1$s</string>
+    <string name="alert_app_failed">Wykryto podejrzaną aplikację: %1$s</string>
+    <plurals name="alert_total">
+        <item quantity="one">Wykryto %d zagrożenie</item>
+        <item quantity="few">Wykryto %d zagrożenia</item>
+        <item quantity="many">Wykryto %d zagrożeń</item>
+        <item quantity="other">Wykryto %d zagrożenia</item>
+    </plurals>
+    <string name="fgs_text">Ochrona aktywna</string>
+    <string name="channel_protection">Aktywność w tle</string>
+    <string name="channel_alerts">Alerty bezpieczeństwa</string>
+</resources>

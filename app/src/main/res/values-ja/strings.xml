@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="state_off_hint">タップしてオンにする</string>
+    <string name="state_on">端末は保護されています</string>
+    <string name="tagline">モバイル脅威セキュリティ</string>
+    <string name="tagline_sub">信頼できるサービス</string>
+    <string name="quarantine_title">削除済み</string>
+    <string name="quarantine_cd">隔離</string>
+    <string name="back_cd">戻る</string>
+    <string name="select_all">すべて選択</string>
+    <string name="empty_title">削除済みファイルはありません</string>
+    <string name="empty_body">削除したものはここに表示されます。</string>
+    <string name="restore">復元</string>
+    <string name="delete">削除</string>
+    <string name="delete_title">選択したファイルを削除しますか？</string>
+    <string name="cancel">キャンセル</string>
+    <string name="uninstall_title">アプリをアンインストール</string>
+    <string name="uninstall_body">%1$s をアンインストールしますか？</string>
+    <string name="uninstall">アンインストール</string>
+    <string name="files">ファイル</string>
+    <string name="apps">アプリ</string>
+    <string name="unknown_app">不明なアプリ</string>
+    <string name="unknown_file">不明</string>
+    <string name="setup_running">セットアップ中...</string>
+    <string name="setup_offline_title">接続なし</string>
+    <string name="setup_offline_body">インターネット接続を確認してください。セットアップ時に一度だけインターネット接続が必要です。</string>
+    <string name="setup_retry">再試行</string>
+    <string name="setup_unsupported">このアプリのバージョンはサポートされていません</string>
+    <string name="ok">OK</string>
+    <string name="alert_title">脅威を検出しました</string>
+    <string name="alert_file_ok">ファイルを隔離しました: %1$s</string>
+    <string name="alert_file_failed">隔離に失敗しました: %1$s</string>
+    <string name="alert_app_ok">不審なアプリにフラグを立てました: %1$s</string>
+    <string name="alert_app_failed">不審なアプリを検出しました: %1$s</string>
+    <plurals name="alert_total">
+        <item quantity="other">%d件の脅威を検出しました</item>
+    </plurals>
+    <string name="fgs_text">保護が有効です</string>
+    <string name="channel_protection">バックグラウンド動作</string>
+    <string name="channel_alerts">セキュリティ通知</string>
+</resources>

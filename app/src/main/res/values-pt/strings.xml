@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="state_off_hint">Toque para ligar</string>
+    <string name="state_on">Dispositivo protegido</string>
+    <string name="tagline">Segurança contra ameaças móveis</string>
+    <string name="tagline_sub">Um serviço em que você pode confiar</string>
+    <string name="quarantine_title">Removidos</string>
+    <string name="quarantine_cd">Quarentena</string>
+    <string name="back_cd">Voltar</string>
+    <string name="select_all">Selecionar tudo</string>
+    <string name="empty_title">Nenhum arquivo removido</string>
+    <string name="empty_body">Tudo o que você remover aparecerá aqui.</string>
+    <string name="restore">Restaurar</string>
+    <string name="delete">Excluir</string>
+    <string name="delete_title">Excluir arquivos selecionados?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="uninstall_title">Desinstalar app</string>
+    <string name="uninstall_body">Desinstalar %1$s?</string>
+    <string name="uninstall">Desinstalar</string>
+    <string name="files">Arquivos</string>
+    <string name="apps">Apps</string>
+    <string name="unknown_app">App desconhecido</string>
+    <string name="unknown_file">Desconhecido</string>
+    <string name="setup_running">Configurando...</string>
+    <string name="setup_offline_title">Sem conexão</string>
+    <string name="setup_offline_body">Verifique sua conexão com a internet. A internet é necessária uma vez durante a configuração.</string>
+    <string name="setup_retry">Tentar novamente</string>
+    <string name="setup_unsupported">Esta versão do app não é compatível</string>
+    <string name="ok">OK</string>
+    <string name="alert_title">Ameaça detectada</string>
+    <string name="alert_file_ok">Um arquivo foi colocado em quarentena: %1$s</string>
+    <string name="alert_file_failed">Falha ao colocar em quarentena: %1$s</string>
+    <string name="alert_app_ok">App suspeito sinalizado: %1$s</string>
+    <string name="alert_app_failed">App suspeito detectado: %1$s</string>
+    <plurals name="alert_total">
+        <item quantity="one">%d ameaça detectada</item>
+        <item quantity="other">%d ameaças detectadas</item>
+    </plurals>
+    <string name="fgs_text">Proteção ativa</string>
+    <string name="channel_protection">Atividade em segundo plano</string>
+    <string name="channel_alerts">Alertas de segurança</string>
+</resources>

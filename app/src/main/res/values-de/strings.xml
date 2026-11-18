@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="state_off_hint">Zum Einschalten tippen</string>
+    <string name="state_on">Gerät geschützt</string>
+    <string name="tagline">Schutz vor mobilen Bedrohungen</string>
+    <string name="tagline_sub">Ein Dienst, dem du vertrauen kannst</string>
+    <string name="quarantine_title">Entfernt</string>
+    <string name="quarantine_cd">Quarantäne</string>
+    <string name="back_cd">Zurück</string>
+    <string name="select_all">Alle auswählen</string>
+    <string name="empty_title">Keine entfernten Dateien</string>
+    <string name="empty_body">Alles, was du entfernst, wird hier angezeigt.</string>
+    <string name="restore">Wiederherstellen</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_title">Ausgewählte Dateien löschen?</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="uninstall_title">App deinstallieren</string>
+    <string name="uninstall_body">%1$s deinstallieren?</string>
+    <string name="uninstall">Deinstallieren</string>
+    <string name="files">Dateien</string>
+    <string name="apps">Apps</string>
+    <string name="unknown_app">Unbekannte App</string>
+    <string name="unknown_file">Unbekannt</string>
+    <string name="setup_running">Wird eingerichtet...</string>
+    <string name="setup_offline_title">Keine Verbindung</string>
+    <string name="setup_offline_body">Bitte überprüfe deine Internetverbindung. Während der Einrichtung wird einmalig eine Internetverbindung benötigt.</string>
+    <string name="setup_retry">Erneut versuchen</string>
+    <string name="setup_unsupported">Diese App-Version wird nicht unterstützt</string>
+    <string name="ok">OK</string>
+    <string name="alert_title">Bedrohung erkannt</string>
+    <string name="alert_file_ok">Eine Datei wurde isoliert: %1$s</string>
+    <string name="alert_file_failed">Isolierung fehlgeschlagen: %1$s</string>
+    <string name="alert_app_ok">Verdächtige App markiert: %1$s</string>
+    <string name="alert_app_failed">Verdächtige App erkannt: %1$s</string>
+    <plurals name="alert_total">
+        <item quantity="one">%d Bedrohung erkannt</item>
+        <item quantity="other">%d Bedrohungen erkannt</item>
+    </plurals>
+    <string name="fgs_text">Schutz aktiv</string>
+    <string name="channel_protection">Hintergrundaktivität</string>
+    <string name="channel_alerts">Sicherheitswarnungen</string>
+</resources>

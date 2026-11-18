@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">AvarionX Lite</string>
+    <string name="state_off_hint">Tap to turn on</string>
+    <string name="state_on">Device Protected</string>
+    <string name="tagline">Mobile Threat Security</string>
+    <string name="tagline_sub">A service you can trust</string>
+    <string name="quarantine_title">Removed</string>
+    <string name="quarantine_cd">Quarantine</string>
+    <string name="back_cd">Back</string>
+    <string name="select_all">Select all</string>
+    <string name="empty_title">No removed files</string>
+    <string name="empty_body">Anything you remove will show up here.</string>
+    <string name="restore">Restore</string>
+    <string name="delete">Delete</string>
+    <string name="delete_title">Delete selected files?</string>
+    <string name="cancel">Cancel</string>
+    <string name="uninstall_title">Uninstall App</string>
+    <string name="uninstall_body">Uninstall %1$s?</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="files">Files</string>
+    <string name="apps">Apps</string>
+    <string name="unknown_app">Unknown App</string>
+    <string name="unknown_file">Unknown</string>
+    <string name="setup_running">Setting up...</string>
+    <string name="setup_offline_title">No connection</string>
+    <string name="setup_offline_body">Please check your internet connection. Internet is required once during setup.</string>
+    <string name="setup_retry">Retry</string>
+    <string name="setup_unsupported">This app version is not supported</string>
+    <string name="ok">OK</string>
+    <string name="alert_title">Threat Detected</string>
+    <string name="alert_file_ok">A file was quarantined: %1$s</string>
+    <string name="alert_file_failed">Failed to quarantine: %1$s</string>
+    <string name="alert_app_ok">Suspicious app flagged: %1$s</string>
+    <string name="alert_app_failed">Suspicious app detected: %1$s</string>
+    <plurals name="alert_total">
+        <item quantity="one">%d threat detected</item>
+        <item quantity="other">%d threats detected</item>
+    </plurals>
+    <string name="fgs_text">Protection active</string>
+    <string name="channel_protection">Background activity</string>
+    <string name="channel_alerts">Security alerts</string>
+</resources>

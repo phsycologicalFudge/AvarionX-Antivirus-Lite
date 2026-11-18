@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface">#101012</color>
+    <color name="container">#1A1A1D</color>
+    <color name="primary">#4EA3FF</color>
+    <color name="error">#FF5252</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="on_surface">#EBFFFFFF</color>
+    <color name="on_surface_variant">#94FFFFFF</color>
+    <color name="on_surface_faint">#7AFFFFFF</color>
+    <color name="on_primary">#000000</color>
+    <color name="footer">#94FFFFFF</color>
+    <color name="ring_arc">#8CFFFFFF</color>
+    <color name="ring_track">#24FFFFFF</color>
+</resources>

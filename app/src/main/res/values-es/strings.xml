@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="state_off_hint">Toca para activar</string>
+    <string name="state_on">Dispositivo protegido</string>
+    <string name="tagline">Seguridad contra amenazas móviles</string>
+    <string name="tagline_sub">Un servicio en el que puedes confiar</string>
+    <string name="quarantine_title">Eliminados</string>
+    <string name="quarantine_cd">Cuarentena</string>
+    <string name="back_cd">Atrás</string>
+    <string name="select_all">Seleccionar todo</string>
+    <string name="empty_title">No hay archivos eliminados</string>
+    <string name="empty_body">Todo lo que elimines aparecerá aquí.</string>
+    <string name="restore">Restaurar</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_title">¿Eliminar archivos seleccionados?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="uninstall_title">Desinstalar aplicación</string>
+    <string name="uninstall_body">¿Desinstalar %1$s?</string>
+    <string name="uninstall">Desinstalar</string>
+    <string name="files">Archivos</string>
+    <string name="apps">Apps</string>
+    <string name="unknown_app">Aplicación desconocida</string>
+    <string name="unknown_file">Desconocido</string>
+    <string name="setup_running">Configurando...</string>
+    <string name="setup_offline_title">Sin conexión</string>
+    <string name="setup_offline_body">Comprueba tu conexión a internet. Se necesita internet una vez durante la configuración.</string>
+    <string name="setup_retry">Reintentar</string>
+    <string name="setup_unsupported">Esta versión de la app no es compatible</string>
+    <string name="ok">OK</string>
+    <string name="alert_title">Amenaza detectada</string>
+    <string name="alert_file_ok">Se puso en cuarentena un archivo: %1$s</string>
+    <string name="alert_file_failed">No se pudo poner en cuarentena: %1$s</string>
+    <string name="alert_app_ok">App sospechosa marcada: %1$s</string>
+    <string name="alert_app_failed">App sospechosa detectada: %1$s</string>
+    <plurals name="alert_total">
+        <item quantity="one">%d amenaza detectada</item>
+        <item quantity="other">%d amenazas detectadas</item>
+    </plurals>
+    <string name="fgs_text">Protección activa</string>
+    <string name="channel_protection">Actividad en segundo plano</string>
+    <string name="channel_alerts">Alertas de seguridad</string>
+</resources>
