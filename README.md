@@ -6,7 +6,7 @@
 
 # AvarionX Security
 
-### Androids lightest anti-malware
+### Androids Lightest Anti-Malware
 
 [![Release](https://img.shields.io/github/v/release/phsycologicalFudge/AvarionX-Antivirus-Lite?logo=github&label=release&color=6366f1)](https://github.com/phsycologicalFudge/AvarionX-Antivirus-Lite/releases)
 [![Downloads](https://img.shields.io/github/downloads/phsycologicalFudge/AvarionX-Antivirus-Lite/total?logo=github&label=downloads&color=10b981)](https://github.com/phsycologicalFudge/AvarionX-Antivirus-Lite/releases)
