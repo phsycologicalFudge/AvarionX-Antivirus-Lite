@@ -9,7 +9,7 @@
 ### Androids lightest anti-malware
 
 [![Release](https://img.shields.io/github/v/release/phsycologicalFudge/AvarionX-Antivirus-Lite?logo=github&label=release&color=6366f1)](https://github.com/phsycologicalFudge/AvarionX-Antivirus-Lite/releases)
-[![Downloads](https://img.shields.io/github/downloads/phsycologicalFudge/AvarionX-Antivirus-Lites/total?logo=github&label=downloads&color=10b981)](https://github.com/phsycologicalFudge/AvarionX-Antivirus-Lite/releases)
+[![Downloads](https://img.shields.io/github/downloads/phsycologicalFudge/AvarionX-Antivirus-Lite/total?logo=github&label=downloads&color=10b981)](https://github.com/phsycologicalFudge/AvarionX-Antivirus-Lite/releases)
 [![License](https://img.shields.io/github/license/phsycologicalFudge/AvarionX-Antivirus-Lite?label=license&color=64748b)](LICENSE)
 [![VX-TITANIUM](https://img.shields.io/badge/VX--TITANIUM-XSeries-7c3aed?labelColor=020617)](https://github.com/phsycologicalFudge/AvarionX-Antivirus-Lite)
 
