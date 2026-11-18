@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gitImages/logo.png" width="92" alt="AvarionX Security logo">
+  <img src="gitImages/logo.png" width="92" alt="AvarionX Security logo">
 </p>
 
 <div align="center">
